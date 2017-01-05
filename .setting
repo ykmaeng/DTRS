@@ -1,0 +1,16 @@
+[INFO]
+client=»ïÀ°º¸°Ç´ë
+version=1.1.4
+
+[DB]
+;addr=220.68.211.5
+addr=115.92.199.77
+port=4002
+username=dtrs
+;secret=dtrs@admin1234!
+secret=dtrs@lstro
+database=dtrs
+
+[SIP]
+;addr=220.68.211.5
+addr=115.92.199.77
